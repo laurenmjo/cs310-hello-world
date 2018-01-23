@@ -1,6 +1,6 @@
 /**
  *
- * @Lauren Johnson
+ * @ Lauren Johnson
  */
 
 public class Class1 {
